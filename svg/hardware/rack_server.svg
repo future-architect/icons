@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#0D0D0D;}
+	.st2{fill:#191919;}
+	.st3{fill:#303D3A;}
+	.st4{fill:#B7B7B7;}
+</style>
+<g id="border">
+	<polygon class="st0" points="288.868,128.062 47.764,165.198 47.764,241.686 152.866,371.938 452.236,274.388 452.236,189.378 	"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<polygon class="st1" points="47.764,165.198 152.866,261.432 452.236,189.378 288.868,128.062 		"/>
+		<polygon class="st2" points="152.866,261.432 152.866,371.938 452.236,274.388 452.236,189.378 		"/>
+		<polygon points="47.764,165.198 152.866,261.432 152.866,371.938 47.764,241.686 		"/>
+		<polygon class="st3" points="170.81,275.912 171.226,349.352 437.826,267.875 438.518,209.747 		"/>
+		<path class="st4" d="M192.357,289.838c0,3.603-2.356,6.512-5.266,6.512c-2.91,0-5.265-2.91-5.265-6.512
+			c0-3.672,2.356-6.582,5.265-6.582C190.001,283.256,192.357,286.166,192.357,289.838L192.357,289.838z"/>
+		<path class="st4" d="M191.318,309.514c0,3.603-2.356,6.582-5.266,6.582c-2.91,0-5.265-2.979-5.265-6.582
+			c0-3.603,2.356-6.582,5.265-6.582C188.962,302.932,191.318,305.911,191.318,309.514L191.318,309.514z"/>
+		<path class="st4" d="M191.318,328.29c0,3.603-2.356,6.582-5.266,6.582c-2.91,0-5.265-2.979-5.265-6.582
+			c0-3.603,2.356-6.582,5.265-6.582C188.962,321.708,191.318,324.687,191.318,328.29L191.318,328.29z"/>
+	</g>
+</g>
+</svg>

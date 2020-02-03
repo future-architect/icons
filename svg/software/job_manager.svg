@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;}
+	.st1{fill:#E3F2F1;}
+	.st2{fill:#878787;}
+	.st3{fill:#44B400;}
+	.st4{fill:#D90000;}
+</style>
+<g id="border">
+	<rect x="46.363" y="100.127" class="st0" width="407.273" height="299.745"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<rect x="46.363" y="100.127" class="st1" width="407.273" height="299.745"/>
+		<rect x="92.034" y="143.522" class="st2" width="61.408" height="61.408"/>
+		<rect x="91.99" y="294.339" class="st3" width="61.495" height="61.408"/>
+		<rect x="221.13" y="217.229" class="st4" width="61.408" height="61.409"/>
+		<rect x="352.32" y="140.775" class="st2" width="61.408" height="61.495"/>
+		<rect x="346.738" y="294.338" class="st3" width="61.495" height="61.409"/>
+		<polygon points="221.13,221.975 153.442,181.362 153.442,189.525 221.13,230.139 		"/>
+		<polygon points="282.539,222.84 282.539,230.814 352.32,192.738 352.32,184.764 		"/>
+		<polygon points="221.13,264.321 221.13,256.347 151.501,294.339 153.485,294.339 153.485,301.23 		"/>
+		<polygon points="346.738,297.341 282.539,258.82 282.539,266.984 346.738,305.504 		"/>
+	</g>
+</g>
+</svg>

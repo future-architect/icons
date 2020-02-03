@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#D14C2A;}
+	.st2{fill:#3D3D3D;}
+	.st3{fill:#7A7A7A;}
+	.st4{fill:#79B5B5;}
+</style>
+<g id="border">
+	<path class="st0" d="M459.2,227l-25.9-82.3c-0.8-5.9-5.9-10.5-12.1-10.5H202.4c-4.6,0-8.6,2.6-10.7,6.3l0-0.3l-95,84.6L54.1,232
+		c-7.1,0-12.8,5.7-12.8,12.8v71c0,7.1,5.7,12.8,12.8,12.8h50.1c0,20.5,16.6,37.2,37.2,37.2s37.2-16.6,37.2-37.2h181.1
+		c0,20.5,16.6,37.2,37.2,37.2c20.5,0,37.2-16.6,37.2-37.2h13.9c7.1,0,12.8-5.7,12.8-12.8v-82.6C460.7,231,460.2,228.9,459.2,227z"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<path class="st1" d="M459.2,227l-25.9-82.3c-0.8-5.9-5.9-10.5-12.1-10.5H202.4c-4.6,0-8.6,2.6-10.7,6.3l0-0.3l-95,84.6L54.1,232
+			c-7.1,0-12.8,5.7-12.8,12.8v71c0,7.1,5.7,12.8,12.8,12.8H112h11.5h324.4c7.1,0,12.8-5.7,12.8-12.8v-82.6
+			C460.7,231,460.2,228.9,459.2,227z"/>
+		<circle class="st2" cx="396.8" cy="328.6" r="37.2"/>
+		<circle class="st3" cx="396.8" cy="328.6" r="18.4"/>
+		<circle class="st2" cx="141.3" cy="328.6" r="37.2"/>
+		<circle class="st3" cx="141.3" cy="328.6" r="18.4"/>
+		<polygon class="st4" points="253,153.4 198.6,153.4 198.6,154.8 156.4,213.5 199.4,210.2 253,210.2 		"/>
+		<rect x="264" y="153.4" class="st4" width="70.6" height="56.6"/>
+		<rect x="345.3" y="153.4" class="st4" width="70.6" height="56.6"/>
+	</g>
+</g>
+</svg>

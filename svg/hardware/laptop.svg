@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;}
+	.st1{fill:#141414;}
+	.st2{fill:#8ECDFC;}
+	.st3{fill:#4C4C4C;}
+	.st4{fill:#A8F1E5;}
+</style>
+<g id="border">
+	<g>
+		<path class="st0" d="M76.452,288.268h343.804c0.956,0,1.674-0.797,1.674-1.673V75.801c0-0.956-0.717-1.673-1.674-1.673H76.452
+			c-0.956,0-1.674,0.717-1.674,1.673v210.793C74.778,287.471,75.496,288.268,76.452,288.268z"/>
+		<path class="st0" d="M423.603,295.919c-0.319-0.957-0.717-1.833-1.594-1.833h-11.476H86.812H75.336
+			c-0.877,0-1.275,0.877-1.594,1.833L36.047,427.574l212.626-0.398l212.626,0.398L423.603,295.919z"/>
+	</g>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<path class="st1" d="M76.452,74.128h343.804c0.956,0,1.674,0.717,1.674,1.673v210.793c0,0.876-0.717,1.673-1.674,1.673H76.452
+			c-0.956,0-1.674-0.797-1.674-1.673V75.801C74.778,74.845,75.496,74.128,76.452,74.128L76.452,74.128z"/>
+		<path class="st1" d="M75.336,294.085c-0.877,0-1.275,0.877-1.594,1.833L36.047,427.574l212.626-0.398l212.626,0.398
+			l-37.696-131.655c-0.319-0.957-0.717-1.833-1.594-1.833h-11.476H86.812H75.336z"/>
+		<path class="st2" d="M103.389,90.864h289.93c0.797,0,1.355,0.638,1.355,1.434v177.72c0,0.797-0.558,1.435-1.355,1.435h-289.93
+			c-0.797,0-1.435-0.638-1.435-1.435V92.298C101.954,91.502,102.592,90.864,103.389,90.864L103.389,90.864z"/>
+		<path class="st3" d="M206.116,378.244c-0.159,0-0.319,0.239-0.398,0.478l-9.245,32.276l52.2-0.079l52.12,0.079l-9.245-32.276
+			c0-0.239-0.159-0.478-0.319-0.478h-2.869h-79.376H206.116z"/>
+		<path class="st4" d="M120.045,90.864l274.629,153.891V92.298c0-0.796-0.558-1.434-1.355-1.434H120.045z"/>
+	</g>
+</g>
+</svg>

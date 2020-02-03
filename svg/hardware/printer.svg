@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#5C5C5C;}
+	.st2{fill:#737373;}
+	.st3{fill:#8ECDFC;}
+	.st4{fill:#A8F1E5;}
+	.st5{fill:#424242;}
+	.st6{fill:#636363;}
+</style>
+<g id="border">
+	<polygon class="st0" points="451.74,377.552 451.74,262.37 403.075,92.993 393.138,92.993 106.862,92.993 96.925,92.993 
+		48.26,262.37 48.26,377.552 68.798,377.552 64.058,396.311 61.355,396.311 61.355,407.007 438.645,407.007 438.645,396.311 
+		435.942,396.311 431.202,377.552 	"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<rect x="48.26" y="262.37" class="st1" width="403.48" height="115.182"/>
+		<polygon class="st2" points="403.075,92.993 96.925,92.993 48.26,262.37 451.74,262.37 		"/>
+		<path class="st3" d="M204.254,280.373h81.563c0.224,0,0.381,0.216,0.381,0.485v60.117c0,0.27-0.157,0.485-0.381,0.485h-81.563
+			c-0.224,0-0.404-0.216-0.404-0.485v-60.117C203.85,280.589,204.03,280.373,204.254,280.373L204.254,280.373z"/>
+		<path class="st4" d="M208.94,280.373l77.259,52.057v-51.572c0-0.269-0.157-0.485-0.381-0.485H208.94z"/>
+		<polygon class="st5" points="438.645,407.007 61.355,407.007 73.522,358.86 426.478,358.86 		"/>
+		<rect x="61.355" y="396.311" class="st1" width="377.289" height="10.697"/>
+		<polygon class="st6" points="393.138,92.993 106.862,92.993 61.355,249.751 438.645,249.751 		"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#916E5E;}
+	.st2{fill:#7D5F51;}
+	.st3{fill:#4D4D4D;}
+	.st4{fill:#8ECDFC;}
+	.st5{fill:#A8F1E5;}
+</style>
+<g id="border">
+	<path class="st0" d="M325.051,142.611h-42.081l-3.351-98.847h-59.237l-3.351,98.847h-42.081c-10.447,0-18.915,8.469-18.915,18.915
+		v176.948c0,10.447,8.469,18.915,18.915,18.915h42.081l3.351,98.847h59.237l3.351-98.847h42.081
+		c10.447,0,18.915-8.469,18.915-18.915V161.526C343.966,151.079,335.497,142.611,325.051,142.611z"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<polygon class="st1" points="279.618,43.764 220.381,43.764 213.39,250 220.381,456.236 279.618,456.236 286.61,250 		"/>
+		<polygon class="st2" points="213.39,250 220.381,456.236 279.619,456.236 286.61,250 		"/>
+		<path class="st3" d="M330.438,357.389H169.562c-7.471,0-13.527-6.056-13.527-13.527V156.138c0-7.471,6.056-13.527,13.527-13.527
+			h160.877c7.471,0,13.527,6.056,13.527,13.527v187.724C343.966,351.333,337.909,357.389,330.438,357.389z"/>
+		<path class="st4" d="M313.354,337.864H186.646c-7.471,0-13.527-6.056-13.527-13.527V175.663c0-7.471,6.056-13.527,13.527-13.527
+			h126.707c7.471,0,13.527,6.056,13.527,13.527v148.673C326.881,331.808,320.825,337.864,313.354,337.864z"/>
+		<path class="st5" d="M326.881,292.033V181.051c0-10.447-8.469-18.915-18.915-18.915H195.802L326.881,292.033z"/>
+	</g>
+</g>
+</svg>
