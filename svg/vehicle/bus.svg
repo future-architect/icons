@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#A32F2F;}
+	.st2{fill:#D4D4D4;}
+	.st3{fill:#79B5B5;}
+	.st4{fill:none;stroke:#2E2E2E;stroke-width:5;stroke-miterlimit:10;}
+	.st5{fill:#3D3D3D;}
+	.st6{fill:#79B5B5;stroke:#1F2E2E;stroke-width:5;stroke-miterlimit:10;}
+	.st7{fill:#7A7A7A;}
+	.st8{fill:#E3652B;}
+</style>
+<g id="border">
+	<path class="st0" d="M440.5,183.3H281.4v-11.8H161.1v11.8H62.2v18v43v48.6h-2.7v17h2.7v11.5h83.3c4.3,4.4,10.3,7.1,16.9,7.1
+		c6.6,0,12.6-2.7,16.9-7.1h166.1c4.3,4.4,10.3,7.1,16.9,7.1c6.6,0,12.6-2.7,16.9-7.1h61.1V183.3z"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<rect x="62.2" y="183.3" class="st1" width="378.3" height="138"/>
+		<rect x="161.1" y="171.6" class="st2" width="120.3" height="11.8"/>
+		<rect x="81.3" y="201.4" class="st3" width="50.8" height="115.8"/>
+		<rect x="81.3" y="201.4" class="st4" width="25.4" height="115.8"/>
+		<rect x="106.7" y="201.4" class="st4" width="25.4" height="115.8"/>
+		<circle class="st5" cx="162.4" cy="304.7" r="23.7"/>
+		<rect x="268.7" y="201.4" class="st3" width="50.8" height="115.8"/>
+		<rect x="268.7" y="201.4" class="st4" width="25.4" height="115.8"/>
+		<rect x="294.1" y="201.4" class="st4" width="25.4" height="115.8"/>
+		<rect x="330" y="201.4" class="st6" width="98.5" height="43"/>
+		<rect x="160" y="201.4" class="st6" width="98.5" height="43"/>
+		<circle class="st7" cx="162.4" cy="304.7" r="11.8"/>
+		<circle class="st5" cx="362.4" cy="304.7" r="23.7"/>
+		<circle class="st7" cx="362.4" cy="304.7" r="11.8"/>
+		<rect x="59.5" y="292.9" class="st8" width="10" height="17"/>
+		
+			<rect x="62.2" y="201.4" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 131.784 445.7462)" class="st3" width="7.3" height="43"/>
+	</g>
+</g>
+</svg>

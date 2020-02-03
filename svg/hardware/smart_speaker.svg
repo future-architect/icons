@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#3E4142;}
+	.st2{fill:#747B7D;}
+	.st3{fill:#99A1A3;}
+	.st4{fill:#A0BDAC;}
+	.st5{fill:#808080;}
+</style>
+<g id="border">
+	<path class="st0" d="M384.6,419.3c0-0.5-0.1-0.9-0.2-1.4V54.8c0-7.5-60.2-13.6-134.5-13.6s-134.5,6.1-134.5,13.6v364.5h0.2
+		c0,0.8,0.1,1.5,0.4,2.2c-0.2,0.9-0.4,1.7-0.4,2.6c0,19.1,60.2,34.6,134.5,34.6s134.5-15.5,134.5-34.6c0-0.9-0.1-1.7-0.4-2.6
+		C384.5,420.8,384.6,420,384.6,419.3z"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<ellipse class="st1" cx="250.1" cy="424.1" rx="134.5" ry="34.6"/>
+		<path class="st2" d="M384.5,417.9V54.8c0,7.5-60.2,13.6-134.5,13.6c-74.3,0-134.5-6.1-134.5-13.6v364.5h0.2
+			c0,16.5,60.2,29.8,134.5,29.8s134.5-13.3,134.5-29.8C384.6,418.8,384.6,418.3,384.5,417.9z"/>
+		<ellipse class="st3" cx="249.9" cy="54.8" rx="134.5" ry="13.6"/>
+		<ellipse class="st4" cx="249.9" cy="60.5" rx="5.9" ry="2"/>
+		<ellipse class="st4" cx="229.9" cy="53.1" rx="5.5" ry="1.5"/>
+		<ellipse class="st4" cx="271" cy="53.1" rx="5.5" ry="1.5"/>
+		<ellipse class="st4" cx="250.1" cy="46.3" rx="4.3" ry="1.1"/>
+		
+			<rect x="232.3" y="90.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.2972 208.4103)" class="st5" width="35.3" height="35.3"/>
+		
+			<rect x="232.3" y="140.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -38.7461 223.0937)" class="st5" width="35.3" height="35.3"/>
+		
+			<rect x="232.3" y="192.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -75.1796 238.185)" class="st5" width="35.3" height="35.3"/>
+		
+			<rect x="232.3" y="242.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -110.6285 252.8684)" class="st5" width="35.3" height="35.3"/>
+		<rect x="285" y="104.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 3.4118 247.1623)" class="st5" width="30" height="30"/>
+		
+			<rect x="285" y="147.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -26.7696 259.6638)" class="st5" width="30" height="30"/>
+		<rect x="285" y="191" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -57.7893 272.5127)" class="st5" width="30" height="30"/>
+		
+			<rect x="285" y="233.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -87.9707 285.0142)" class="st5" width="30" height="30"/>
+		
+			<rect x="184.8" y="104.5" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 256.5945 345.2103)" class="st5" width="30" height="30"/>
+		
+			<rect x="184.8" y="147.1" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 226.4131 418.0746)" class="st5" width="30" height="30"/>
+		
+			<rect x="184.8" y="191" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 195.3933 492.963)" class="st5" width="30" height="30"/>
+		
+			<rect x="184.8" y="233.7" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 165.2119 565.8273)" class="st5" width="30" height="30"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;}
+	.st1{fill:#BECDD1;}
+	.st2{fill:#F0FFFA;}
+	.st3{fill:#DAE8E3;}
+	.st4{fill:#FFFFFF;stroke:#A8B3B0;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#E85C35;}
+	.st7{fill:#823521;}
+	.st8{fill:#F2C877;}
+	.st9{fill:#7D7D7D;}
+	.st10{fill:#FF9F7D;}
+</style>
+<g id="border">
+	<rect x="46.364" y="100.128" class="st0" width="407.272" height="299.745"/>
+</g>
+<g id="object" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g>
+		<rect x="46.364" y="100.128" class="st1" width="407.273" height="299.745"/>
+		<polygon class="st2" points="146.687,139.024 146.687,106.636 52.085,106.636 52.085,139.024 52.085,396.156 447.915,396.156 
+			447.915,139.024 		"/>
+		<rect x="147.034" y="106.636" class="st3" width="94.602" height="32.387"/>
+		<path class="st4" d="M425.486,169.032H154.03c-3.864,0-6.996-3.132-6.996-6.996v-9.096c0-3.864,3.132-6.996,6.996-6.996h271.456
+			c3.864,0,6.996,3.132,6.996,6.996v9.096C432.482,165.899,429.35,169.032,425.486,169.032z"/>
+		<rect x="52.085" y="176.993" class="st5" width="395.831" height="219.163"/>
+		<rect x="59.33" y="217.283" class="st6" width="259.48" height="98.314"/>
+		<rect x="52.085" y="176.993" class="st7" width="395.831" height="32.717"/>
+		<rect x="325.268" y="217.283" class="st8" width="107.263" height="178.874"/>
+		<rect x="68.353" y="151.579" class="st9" width="11.817" height="11.817"/>
+		<rect x="89.58" y="151.579" class="st9" width="11.817" height="11.817"/>
+		<rect x="111.227" y="151.579" class="st9" width="11.817" height="11.817"/>
+		<rect x="59.33" y="325.254" class="st10" width="259.48" height="63.899"/>
+	</g>
+</g>
+</svg>
